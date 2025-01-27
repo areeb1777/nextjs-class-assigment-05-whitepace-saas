@@ -15,7 +15,7 @@ const Navbar: React.FC = () => {
     <div className="w-full max-w-[1920px] h-[92px] sticky px-4 md:px-8 lg:px-20 xl:px-32 py-4 bg-[#043873] flex justify-between items-center mx-auto shadow-md">
       <div className="flex items-center">
         <Image
-          src="/images/logo.png"
+          src="/images/Logo.png"
           alt="Whitepace Logo"
           width={140}
           height={50}

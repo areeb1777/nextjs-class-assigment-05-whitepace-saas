@@ -19,7 +19,7 @@ const Extension: React.FC = () => {
       </div>
       <div className="w-full lg:w-[600px] h-[400px] relative mt-10 lg:mt-0 lg:ml-10">
         <Image
-          src="/images/image-container.png"
+          src="/images/Image-container.png"
           alt="Extension Image"
           fill
           sizes="(max-width: 768px) 100vw, 
