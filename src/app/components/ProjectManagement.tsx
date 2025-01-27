@@ -23,7 +23,7 @@ const ProjectManagement: React.FC = () => {
       </div>
       <div className="w-full md:w-[800px] lg:w-[1000px] h-[200px] md:h-[400px] relative mt-10 lg:mt-0 lg:ml-10">
         <Image
-          src="/images/image-container.png"
+          src="/images/Image-container.png"
           alt="Description of Image"
           fill
           sizes="(max-width: 768px) 100vw, 

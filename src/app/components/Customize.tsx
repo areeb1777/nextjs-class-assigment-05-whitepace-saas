@@ -7,7 +7,7 @@ const Customize: React.FC = () => {
       <div className="flex-col justify-start items-start lg:justify-start lg:items-start gap-1 inline-flex">
         <div className="relative w-[300px] h-[300px] lg:w-[670px] lg:h-[499.30px] bg-[#c4defd]">
           <Image
-            src="/images/image-container.png" // Update the path to your image
+            src="/images/Image-container.png"
             alt="Customize Image"
             fill
             sizes="(max-width: 768px) 100vw, 
